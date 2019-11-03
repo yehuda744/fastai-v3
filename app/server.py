@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/s/rmgj0paikmkvksz/lesson2-download-Copy2.ipynb?dl=1'
+export_file_url = 'https://www.dropbox.com/s/derklcvjfcq7vlm/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['men', 'women']
